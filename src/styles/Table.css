@@ -1,0 +1,30 @@
+.containerT{
+    overflow-x: auto;
+}
+.containerT-title{
+    width: 100%;
+    text-align: center;
+}
+.containerT--table{
+    width: 100%;
+    padding: 5px;
+}
+.containerT--table-head{
+    background-color:   #0191b4;
+}
+.color-row:nth-child(even) {
+    background-color: #c4ffff;
+}
+  
+.color-row:nth-child(odd) {
+    background-color:  #35bbca;
+}
+.contenido{
+    padding: 10px;
+}
+.imagen-card{
+    width: 94%;
+    margin:5px 3% ;
+    border-radius: 7px;
+    height: 200px;
+}

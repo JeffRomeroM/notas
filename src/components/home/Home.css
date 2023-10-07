@@ -1,0 +1,28 @@
+.info{
+    width: 95%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.info h1{
+    width: 35%;
+    text-align: center;
+    margin-top: 80px;
+}
+.info img{
+    width: 60%;
+    margin: 20px auto;
+    border-radius: 15px;
+
+
+}
+.info img:hover{
+    width: 60%;
+    margin: 20px auto;
+    border-radius: 15px;
+
+}
+.detalles{
+    width: 30%;
+    margin: 10px auto;
+}
